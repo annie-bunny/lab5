@@ -1,0 +1,5 @@
+E:\Users\projectVS\ArrayOfStrings\ArrayOfStrings\bin\Debug\ArrayOfStrings.exe.config
+E:\Users\projectVS\ArrayOfStrings\ArrayOfStrings\bin\Debug\ArrayOfStrings.exe
+E:\Users\projectVS\ArrayOfStrings\ArrayOfStrings\bin\Debug\ArrayOfStrings.pdb
+E:\Users\projectVS\ArrayOfStrings\ArrayOfStrings\obj\Debug\ArrayOfStrings.exe
+E:\Users\projectVS\ArrayOfStrings\ArrayOfStrings\obj\Debug\ArrayOfStrings.pdb

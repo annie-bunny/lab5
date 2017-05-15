@@ -1,0 +1,6 @@
+E:\Users\projectVS\StringExample\StringExample\bin\Debug\StringExample.exe.config
+E:\Users\projectVS\StringExample\StringExample\bin\Debug\StringExample.exe
+E:\Users\projectVS\StringExample\StringExample\bin\Debug\StringExample.pdb
+E:\Users\projectVS\StringExample\StringExample\obj\Debug\StringExample.csprojResolveAssemblyReference.cache
+E:\Users\projectVS\StringExample\StringExample\obj\Debug\StringExample.exe
+E:\Users\projectVS\StringExample\StringExample\obj\Debug\StringExample.pdb

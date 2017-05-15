@@ -1,0 +1,5 @@
+E:\Users\projectVS\6CharArray\6CharArray\bin\Debug\6CharArray.exe.config
+E:\Users\projectVS\6CharArray\6CharArray\bin\Debug\6CharArray.exe
+E:\Users\projectVS\6CharArray\6CharArray\bin\Debug\6CharArray.pdb
+E:\Users\projectVS\6CharArray\6CharArray\obj\Debug\6CharArray.exe
+E:\Users\projectVS\6CharArray\6CharArray\obj\Debug\6CharArray.pdb
